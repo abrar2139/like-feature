@@ -14,6 +14,8 @@
   align-items: center;
   background-color: olive;
   flex-direction: column;
+  user-select: none;
+
 }
 .box{
   height: 500px;

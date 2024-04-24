@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  user-select: none;
+  /* user-select: none; */
 
 }
 
@@ -21,7 +21,7 @@
   border-radius: 10px;
   position: relative;
   cursor: pointer;
-  user-select: none;
+  /* user-select: none; */
   overflow: hidden;
 
 }
